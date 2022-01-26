@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="1440px" height="1025px" viewBox="0 0 1440 1025" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>shutterstock_1060527584@3x</title>
+    <defs>
+        <path d="M0,981 C241.771275,1010.33333 449.55366,1025 623.347154,1025 C884.037395,1025 1135.29414,1004.37304 1250,1004.37304 C1326.47057,1004.37304 1389.80391,1009.2487 1440,1019 L1440,0 L0,0 L0,981 Z" id="path-1"></path>
+    </defs>
+    <g id="v6---Zeplin" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="shutterstock_1060527584" transform="translate(720.000000, 512.500000) scale(-1, -1) translate(-720.000000, -512.500000) ">
+            <mask id="mask-2" fill="white">
+                <use xlink:href="#path-1"></use>
+            </mask>
+            <use id="Mask" fill="#FBF7EF" xlink:href="#path-1"></use>
+            <text id="Type-something" mask="url(#mask-2)" font-family="Lexend-Medium, Lexend" font-size="16" font-weight="400" line-spacing="32"></text>
+            <text id="Type-something" mask="url(#mask-2)" font-family="Lexend-Medium, Lexend" font-size="16" font-weight="400" line-spacing="32"></text>
+            <text id="Type-something" mask="url(#mask-2)" font-family="Lexend-Medium, Lexend" font-size="16" font-weight="400" line-spacing="32"></text>
+            <text id="Type-something" mask="url(#mask-2)" font-family="Lexend-Medium, Lexend" font-size="16" font-weight="400" line-spacing="32"></text>
+        </g>
+    </g>
+</svg>
